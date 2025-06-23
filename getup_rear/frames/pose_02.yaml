@@ -126,7 +126,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.0
+    position: -1.5707963267948966
   shoulder_l_roll:
     enable: true
     feedback: ''
@@ -142,7 +142,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.0
+    position: 1.5707963267948966
   shoulder_r_roll:
     enable: true
     feedback: ''

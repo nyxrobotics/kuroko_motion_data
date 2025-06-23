@@ -126,7 +126,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.3490658503988659
+    position: -1.5707963267948966
   shoulder_l_roll:
     enable: true
     feedback: ''
@@ -134,7 +134,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 1.4311699866353502
+    position: 0.0
   shoulder_r_pitch:
     enable: true
     feedback: ''
@@ -142,7 +142,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.3490658503988659
+    position: 1.5707963267948966
   shoulder_r_roll:
     enable: true
     feedback: ''
@@ -150,7 +150,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -1.4486232791552935
+    position: 0.0
   thigh_l_active:
     enable: true
     feedback: ''
@@ -190,5 +190,5 @@ speed_scale:
   thigh_l_active: 1.0
   thigh_r_active: 1.0
 time:
-  move_duration: 0.2
+  move_duration: 0.4
   wait_duration: 0.0
