@@ -1,7 +1,0 @@
-expression: ''
-condition: '1'
-case:
-  case_0:
-    value: 0
-  case_1:
-    value: 1
