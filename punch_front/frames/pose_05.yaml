@@ -110,7 +110,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.17453292519943295
+    position: 0.0
   shin_r_active:
     enable: true
     feedback: ''
@@ -118,7 +118,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.17453292519943295
+    position: 0.0
   shoulder_l_pitch:
     enable: true
     feedback: ''

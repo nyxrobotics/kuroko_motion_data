@@ -85,8 +85,8 @@ layout:
         id: 10
         type: frame
       place:
-        x: -531.0
-        y: 59.0
+        x: -1099.0
+        y: 442.0
     frame_11_pose_11:
       connection:
         output:
@@ -99,8 +99,8 @@ layout:
         id: 11
         type: frame
       place:
-        x: -531.0
-        y: -70.0
+        x: -1091.0
+        y: 324.0
     frame_12_pose_12:
       connection:
         output:
@@ -113,8 +113,8 @@ layout:
         id: 12
         type: frame
       place:
-        x: -535.0
-        y: -187.0
+        x: -1098.0
+        y: 215.0
     frame_13_pose_13:
       connection:
         output:
@@ -127,8 +127,8 @@ layout:
         id: 13
         type: frame
       place:
-        x: -542.0
-        y: -294.0
+        x: -1098.0
+        y: 104.0
     frame_14_pose_14:
       connection:
         output:
@@ -141,8 +141,8 @@ layout:
         id: 14
         type: frame
       place:
-        x: -543.0
-        y: -407.0
+        x: -1094.0
+        y: -14.0
     frame_15_last:
       connection:
         output:
@@ -153,8 +153,8 @@ layout:
         id: 15
         type: frame
       place:
-        x: -98.0
-        y: 853.0
+        x: -406.0
+        y: -238.0
     frame_16_pose_19:
       connection:
         output:
@@ -167,8 +167,8 @@ layout:
         id: 16
         type: frame
       place:
-        x: -507.0
-        y: 968.0
+        x: -773.0
+        y: -352.0
     frame_17_pose_15:
       connection:
         output:
@@ -181,8 +181,8 @@ layout:
         id: 17
         type: frame
       place:
-        x: -146.0
-        y: -137.0
+        x: -1103.0
+        y: -347.0
     frame_18_pose_18:
       connection:
         output:
@@ -195,8 +195,8 @@ layout:
         id: 18
         type: frame
       place:
-        x: -115.0
-        y: 955.0
+        x: -424.0
+        y: -357.0
     frame_1_pose_01:
       connection:
         output:
@@ -209,8 +209,8 @@ layout:
         id: 1
         type: frame
       place:
-        x: -133.0
-        y: -289.0
+        x: -1084.0
+        y: -243.0
     frame_2_pose_02:
       connection:
         output:
@@ -223,8 +223,8 @@ layout:
         id: 2
         type: frame
       place:
-        x: -523.0
-        y: 649.0
+        x: -760.0
+        y: -5.0
     frame_3_pose_03:
       connection:
         output:
@@ -237,8 +237,8 @@ layout:
         id: 3
         type: frame
       place:
-        x: -523.0
-        y: 768.0
+        x: -772.0
+        y: -126.0
     frame_4_pose_04:
       connection:
         output:
@@ -251,8 +251,8 @@ layout:
         id: 4
         type: frame
       place:
-        x: -514.0
-        y: 877.0
+        x: -767.0
+        y: -244.0
     frame_5_pose_05:
       connection:
         output:
@@ -265,8 +265,8 @@ layout:
         id: 5
         type: frame
       place:
-        x: -143.0
-        y: -409.0
+        x: -1093.0
+        y: -125.0
     frame_6_pose_06:
       connection:
         output:
@@ -279,8 +279,8 @@ layout:
         id: 6
         type: frame
       place:
-        x: -527.0
-        y: 519.0
+        x: -750.0
+        y: 119.0
     frame_7_pose_07:
       connection:
         output:
@@ -293,8 +293,8 @@ layout:
         id: 7
         type: frame
       place:
-        x: -515.0
-        y: 405.0
+        x: -760.0
+        y: 232.0
     frame_8_pose_08:
       connection:
         output:
@@ -307,8 +307,8 @@ layout:
         id: 8
         type: frame
       place:
-        x: -533.0
-        y: 281.0
+        x: -753.0
+        y: 333.0
     frame_9_pose_09:
       connection:
         output:
@@ -321,8 +321,8 @@ layout:
         id: 9
         type: frame
       place:
-        x: -523.0
-        y: 177.0
+        x: -753.0
+        y: 434.0
     start_0:
       connection:
         output:
@@ -335,5 +335,5 @@ layout:
         id: 0
         type: start
       place:
-        x: -51.0
-        y: -3.0
+        x: -1020.0
+        y: -464.0
