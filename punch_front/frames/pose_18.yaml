@@ -70,7 +70,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -1.9198621771937625
+    position: 1.9198621771937625
   hip_l_pitch:
     enable: true
     feedback: ''
@@ -190,5 +190,5 @@ speed_scale:
   thigh_l_active: 1.0
   thigh_r_active: 1.0
 time:
-  move_duration: 0.1
-  wait_duration: 0.1
+  move_duration: 0.2
+  wait_duration: 0.0
