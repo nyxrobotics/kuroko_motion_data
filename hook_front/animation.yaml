@@ -8,10 +8,6 @@ layout:
       info:
         id: 1
       waypoints: []
-    arrow_2:
-      info:
-        id: 2
-      waypoints: []
     arrow_3:
       info:
         id: 3
