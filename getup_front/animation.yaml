@@ -88,7 +88,7 @@ layout:
         type: frame
       place:
         x: 567.0
-        y: 936.0
+        y: 937.0
     frame_5_pose_05:
       connection:
         output:

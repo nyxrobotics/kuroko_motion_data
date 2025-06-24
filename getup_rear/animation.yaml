@@ -265,8 +265,8 @@ layout:
         id: 7
         type: frame
       place:
-        x: 34.0
-        y: 1664.0
+        x: 20.0
+        y: 1656.0
     frame_8_pose_08:
       connection:
         output:
