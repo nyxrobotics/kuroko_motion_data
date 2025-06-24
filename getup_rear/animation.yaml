@@ -85,8 +85,8 @@ layout:
         id: 10
         type: frame
       place:
-        x: 369.0
-        y: 1911.0
+        x: 385.0
+        y: 1910.0
     frame_11_pose_11:
       connection:
         output:
@@ -99,7 +99,7 @@ layout:
         id: 11
         type: frame
       place:
-        x: 362.0
+        x: 363.0
         y: 1790.0
     frame_12_pose_12:
       connection:
