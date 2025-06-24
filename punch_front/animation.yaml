@@ -163,16 +163,14 @@ layout:
       connection:
         output:
           out_0:
-            arrow: arrow_17
             ch: 0
-            target: frame_18_pose_18
       info:
         filename: pose_19
         id: 16
         type: frame
       place:
-        x: -765.0
-        y: -347.0
+        x: -380.0
+        y: -346.0
     frame_17_pose_15:
       connection:
         output:
@@ -229,6 +227,20 @@ layout:
       place:
         x: -1096.0
         y: -237.0
+    frame_20_pose_20:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_17
+            ch: 0
+            target: frame_18_pose_18
+      info:
+        filename: pose_20
+        id: 20
+        type: frame
+      place:
+        x: -765.0
+        y: -345.0
     frame_2_pose_02:
       connection:
         output:
@@ -263,7 +275,7 @@ layout:
           out_0:
             arrow: arrow_14
             ch: 0
-            target: frame_16_pose_19
+            target: frame_20_pose_20
       info:
         filename: pose_04
         id: 4

@@ -38,7 +38,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.0
+    position: 0.5235987755982988
   elbow_l_front:
     enable: true
     feedback: ''

@@ -14,7 +14,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.0
+    position: 0.13962634015954636
   ankle_r_roll:
     enable: true
     feedback: ''
@@ -30,7 +30,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.0
+    position: -0.13962634015954636
   chest:
     enable: true
     feedback: ''
