@@ -14,7 +14,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.0
+    position: -0.12217304763960307
   ankle_r_roll:
     enable: true
     feedback: ''
@@ -30,7 +30,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.0
+    position: 0.12217304763960307
   chest:
     enable: true
     feedback: ''
@@ -46,7 +46,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.0
+    position: 0.0
   elbow_l_rear:
     enable: true
     feedback: ''
@@ -54,7 +54,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.0
+    position: 0.0
   elbow_r_front:
     enable: true
     feedback: ''
@@ -126,7 +126,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.0
+    position: 0.0
   shoulder_l_roll:
     enable: true
     feedback: ''
