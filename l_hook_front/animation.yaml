@@ -49,8 +49,8 @@ layout:
         id: 1
         type: frame
       place:
-        x: 15.0
-        y: 543.0
+        x: 30.0
+        y: 464.0
     frame_2_pose_02:
       connection:
         output:
@@ -63,8 +63,8 @@ layout:
         id: 2
         type: frame
       place:
-        x: 17.0
-        y: 664.0
+        x: 18.0
+        y: 679.0
     frame_3_pose_03:
       connection:
         output:
@@ -145,8 +145,8 @@ layout:
         id: 8
         type: frame
       place:
-        x: 455.0
-        y: 589.0
+        x: 29.0
+        y: 560.0
     frame_9_pose_09:
       connection:
         output:
@@ -159,8 +159,8 @@ layout:
         id: 9
         type: frame
       place:
-        x: 496.0
-        y: 441.0
+        x: 26.0
+        y: 362.0
     start_0:
       connection:
         output:
@@ -173,5 +173,5 @@ layout:
         id: 0
         type: start
       place:
-        x: 98.0
-        y: 393.0
+        x: 94.0
+        y: 251.0
