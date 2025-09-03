@@ -237,7 +237,9 @@ layout:
       connection:
         output:
           out_0:
+            arrow: arrow_0
             ch: 0
+            target: frame_2_pose_20
       info:
         filename: ''
         id: 0
