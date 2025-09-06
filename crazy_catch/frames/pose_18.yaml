@@ -46,7 +46,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -1.5707963267948966
+    position: 2.0943951023931953
   elbow_l_rear:
     enable: true
     feedback: ''
@@ -54,7 +54,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 1.5707963267948966
+    position: -2.0943951023931953
   elbow_r_front:
     enable: true
     feedback: ''
@@ -62,7 +62,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 1.5707963267948966
+    position: -2.0943951023931953
   elbow_r_rear:
     enable: true
     feedback: ''
@@ -70,7 +70,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -1.5707963267948966
+    position: 2.0943951023931953
   hip_l_pitch:
     enable: true
     feedback: ''
@@ -78,7 +78,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 1.3089969389957472
+    position: 0.3490658503988659
   hip_l_roll:
     enable: true
     feedback: ''
@@ -94,7 +94,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -1.3089969389957472
+    position: -0.3490658503988659
   hip_r_roll:
     enable: true
     feedback: ''
@@ -126,7 +126,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 2.6179938779914944
+    position: -0.5235987755982988
   shoulder_l_roll:
     enable: true
     feedback: ''
@@ -134,7 +134,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -1.5707963267948966
+    position: 0.0
   shoulder_r_pitch:
     enable: true
     feedback: ''
@@ -142,7 +142,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -2.6179938779914944
+    position: 0.5235987755982988
   shoulder_r_roll:
     enable: true
     feedback: ''
@@ -150,7 +150,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 1.5707963267948966
+    position: 0.0
   thigh_l_active:
     enable: true
     feedback: ''
@@ -158,7 +158,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: -0.6981317007977318
+    position: -0.5759586531581288
   thigh_r_active:
     enable: true
     feedback: ''
@@ -166,7 +166,7 @@ joints:
     - 0.0
     - 0.0
     - 0.0
-    position: 0.6981317007977318
+    position: 0.5759586531581288
 speed_scale:
   ankle_l_roll: 1.0
   ankle_l_yaw: 1.0
@@ -190,5 +190,5 @@ speed_scale:
   thigh_l_active: 1.0
   thigh_r_active: 1.0
 time:
-  move_duration: 0.4
+  move_duration: 0.2
   wait_duration: 0.0
