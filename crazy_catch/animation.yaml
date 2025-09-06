@@ -1,0 +1,211 @@
+layout:
+  arrow:
+    arrow_0:
+      info:
+        id: 0
+      waypoints: []
+    arrow_1:
+      info:
+        id: 1
+      waypoints: []
+    arrow_10:
+      info:
+        id: 10
+      waypoints: []
+    arrow_2:
+      info:
+        id: 2
+      waypoints: []
+    arrow_3:
+      info:
+        id: 3
+      waypoints: []
+    arrow_4:
+      info:
+        id: 4
+      waypoints: []
+    arrow_5:
+      info:
+        id: 5
+      waypoints: []
+    arrow_6:
+      info:
+        id: 6
+      waypoints: []
+    arrow_7:
+      info:
+        id: 7
+      waypoints: []
+    arrow_8:
+      info:
+        id: 8
+      waypoints: []
+    arrow_9:
+      info:
+        id: 9
+      waypoints: []
+  block:
+    frame_10_pose_09:
+      connection:
+        output:
+          out_0:
+            ch: 0
+      info:
+        filename: pose_09
+        id: 10
+        type: frame
+      place:
+        x: -546.0
+        y: 1360.0
+    frame_11_pose_10:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_10
+            ch: 0
+            target: frame_1_pose_01
+      info:
+        filename: pose_10
+        id: 11
+        type: frame
+      place:
+        x: -230.0
+        y: 285.0
+    frame_1_pose_01:
+      connection:
+        output:
+          out_0:
+            ch: 0
+      info:
+        filename: pose_01
+        id: 1
+        type: frame
+      place:
+        x: -590.0
+        y: 344.0
+    frame_2_pose_02:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_2
+            ch: 0
+            target: frame_3_pose_03
+      info:
+        filename: pose_02
+        id: 2
+        type: frame
+      place:
+        x: -579.0
+        y: 443.0
+    frame_3_pose_03:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_3
+            ch: 0
+            target: frame_4_pose_04
+      info:
+        filename: pose_03
+        id: 3
+        type: frame
+      place:
+        x: -580.0
+        y: 554.0
+    frame_4_pose_04:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_4
+            ch: 0
+            target: frame_5_pose_05
+      info:
+        filename: pose_04
+        id: 4
+        type: frame
+      place:
+        x: -580.0
+        y: 679.0
+    frame_5_pose_05:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_5
+            ch: 0
+            target: frame_6_pose_06
+      info:
+        filename: pose_05
+        id: 5
+        type: frame
+      place:
+        x: -579.0
+        y: 821.0
+    frame_6_pose_06:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_6
+            ch: 0
+            target: frame_9_pose_087
+      info:
+        filename: pose_06
+        id: 6
+        type: frame
+      place:
+        x: -566.0
+        y: 954.0
+    frame_7_pose_07:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_9
+            ch: 0
+            target: frame_10_pose_09
+      info:
+        filename: pose_07
+        id: 7
+        type: frame
+      place:
+        x: -572.0
+        y: 1216.0
+    frame_8_pose_00:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_7
+            ch: 0
+            target: frame_11_pose_10
+      info:
+        filename: pose_00
+        id: 8
+        type: frame
+      place:
+        x: -582.0
+        y: 220.0
+    frame_9_pose_087:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_8
+            ch: 0
+            target: frame_7_pose_07
+      info:
+        filename: pose_087
+        id: 9
+        type: frame
+      place:
+        x: -580.0
+        y: 1082.0
+    start_0:
+      connection:
+        output:
+          out_0:
+            arrow: arrow_0
+            ch: 0
+            target: frame_8_pose_00
+      info:
+        filename: ''
+        id: 0
+        type: start
+      place:
+        x: -516.0
+        y: 117.0
